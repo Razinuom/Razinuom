@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hi there, I'm Razin Ikmal 👋
 
-<!--
-**Razinuom/Razinuom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student passionate about **AI** and **Data Science**  
+💡 Always exploring how data and algorithms can solve real-world problems  
+🧰 Tech I use: Python  
+🚀 Currently learning: systemVerilog & RISC-V Architecture  
+🌱 I enjoy building small projects and learning from each one!  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect with me  
+- 📧 Email: razin041006@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/razin-ikmal-bin-annis-7b9a2137a)  
+- 🧑‍💻 GitHub: [@Razinuom](https://github.com/Razinuom)
