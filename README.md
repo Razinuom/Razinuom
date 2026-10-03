@@ -3,8 +3,7 @@
 🎓 Computer Science student passionate about **AI** and **Data Science**  
 💡 Always exploring how data and algorithms can solve real-world problems  
 🧰 Tech I use: Python  
-🚀 Currently learning: Programming Paradigms and AI
-🌱 I enjoy building small projects and learning from each one!  
+🚀 Currently learning: Programming Paradigms and AI 
 
 ## 🔗 Connect with me  
 - 📧 Email: razin041006@gmail.com  
