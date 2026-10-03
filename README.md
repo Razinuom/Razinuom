@@ -4,7 +4,6 @@
 💡 Always exploring how data and algorithms can solve real-world problems  
 🧰 Tech I use: Python  
 🚀 Currently learning: Programming Paradigms and AI
-
 🌱 I enjoy building small projects and learning from each one!  
 
 ## 🔗 Connect with me  
